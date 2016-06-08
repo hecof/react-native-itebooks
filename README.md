@@ -11,7 +11,7 @@ Feel free to do what you want with the source code. If you have something to sha
 
 ![book-details](https://cloud.githubusercontent.com/assets/4639761/15912724/50735ec4-2dd6-11e6-83cb-b53a39073d11.png)
 
-### Developement
+### Development
 
 1. `npm install`
 2. Check [Android Setup](https://facebook.github.io/react-native/docs/android-setup.html#content)
